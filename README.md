@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋 I'm Niharika
 
-<!--
-**TechWhizArt/TechWhizArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate **B.Tech Computer Science** student specializing in **Artificial Intelligence and Machine Learning**. I love coding, app development, and exploring new technologies to build innovative solutions. 
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Programming Languages:** Java, C, Python, Kotlin  
+- **Web Development:** HTML, CSS  
+- **App Development:** Android Studio (Java, Kotlin), XML, Jetpack Compose  
+- **Database & Backend:** Flask, MongoDB  
+- **Version Control:** Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+I'm currently learning **Data Structures & Algorithms (DSA) in C**, advanced **Android Development**, and diving deeper into **Kotlin & Jetpack Compose**.
+
+## 📌 Projects & Interests
+- 📱 Developing Android applications with modern UI/UX
+- 🎨 Experimenting with **Watercolor Sketching & Anime Art**
+- 📚 Building a **School Library App** to manage book records and reservations
+
+## 📫 Connect with Me
+- GitHub: [github.com/your-username](https://github.com/your-username)
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+
+Let's collaborate and build something amazing! 🚀
