@@ -19,7 +19,7 @@ I'm currently learning **Data Structures & Algorithms (DSA) in C**, **Android De
 
 
 ## 📫 Connect with Me
-- GitHub: [github.com/your-username](https://github.com/TechWhizArt)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/niharika-nika)
+- GitHub: [https://github.com/TechWhizArt](https://github.com/TechWhizArt)
+- LinkedIn: [https://www.linkedin.com/in/niharika-nika](https://www.linkedin.com/in/niharika-nika)
 
 Let's collaborate and build something amazing! 🚀
