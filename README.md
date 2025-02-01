@@ -12,7 +12,8 @@ I'm a passionate **B.Tech Computer Science** student specializing in **Artificia
 - **Version Control:** Git & GitHub  
 
 ## 🌱 Currently Learning
-I'm currently learning **Data Structures & Algorithms (DSA) in C**, **Android Development**, and diving deeper into **Kotlin & Jetpack Compose**.
+I'm currently learning **Android Development** and diving deeper into **Kotlin & Jetpack Compose**.
+
 
 ## 📌 Projects & Interests
 - 📱 Developing Android applications with modern UI/UX
