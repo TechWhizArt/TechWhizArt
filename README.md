@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Niharika
 
 ## 🚀 About Me
-I'm a passionate **B.Tech Computer Science** student specializing in **Artificial Intelligence and Machine Learning**. I love coding, app development, and exploring new technologies to build innovative solutions. 
+II’m a **B.Tech Computer Science student**, specializing in **AI and Machine Learning**. I love coding, making apps, and checking out the latest tech to build cool stuff!
 
 ## 💻 Tech Stack
 - **Programming Languages:** Java, C, Python, Kotlin  
@@ -12,7 +12,7 @@ I'm a passionate **B.Tech Computer Science** student specializing in **Artificia
 - **Version Control:** Git & GitHub  
 
 ## 🌱 Currently Learning
-I'm currently learning **Android Development** and diving deeper into **Kotlin & Jetpack Compose**.
+I'm currently learning **Android Development** with **Kotlin & Jetpack Compose**.
 
 
 ## 📌 Projects & Interests
