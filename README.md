@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Niharika
 
 ## 🚀 About Me
-II’m a **B.Tech Computer Science student**, specializing in **AI and Machine Learning**. I love coding, making apps, and checking out the latest tech to build cool stuff!
+I’m a **B.Tech Computer Science student**, specializing in **AI and Machine Learning**. I love coding, making apps, and checking out the latest tech to build cool stuff!
 
 ## 💻 Tech Stack
 - **Programming Languages:** Java, C, Python, Kotlin  
